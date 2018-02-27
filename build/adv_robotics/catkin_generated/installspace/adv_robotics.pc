@@ -1,0 +1,8 @@
+prefix=/home/ellie/ws_adv_robot/install
+
+Name: adv_robotics
+Description: Description of adv_robotics
+Version: 0.0.0
+Cflags: -I/home/ellie/ws_adv_robot/install/include
+Libs: -L/home/ellie/ws_adv_robot/install/lib 
+Requires: 

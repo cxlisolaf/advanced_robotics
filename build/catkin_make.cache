@@ -1,0 +1,2 @@
+adv_robotics
+-DCATKIN_DEVEL_PREFIX=/home/ellie/ws_adv_robot/devel -DCMAKE_INSTALL_PREFIX=/home/ellie/ws_adv_robot/install -G Unix Makefiles
